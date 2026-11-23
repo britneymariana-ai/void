@@ -1,2 +1,3 @@
 # void
-financial literacy
+Teenagers in Kenya are growing up watching adults make financial decisions around them: borrowing, saving, spending, and planning. But nobody explains how any of it works in a way that is relevant to a 14 to 17-year-old. The concepts exist in textbooks and adult conversations, but the gap between that and understanding your own financial reality is wide.
+This project asks you to explore that gap. What financial concepts do young people in Kenya wish they had understood earlier? What decisions are they already making or watching others make that they do not fully grasp? What would it mean to feel more financially confident at this age? Your research will help you understand what a student-built website could offer: not a banking app, not 
